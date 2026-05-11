@@ -1,0 +1,22 @@
+[
+  {
+    "nom": "Téléphone",
+    "prix": 3500,
+    "stock": 5
+  },
+  {
+    "nom": "Casque",
+    "prix": 400,
+    "stock": 10
+  },
+  {
+    "nom": "Tablette",
+    "prix": 2800,
+    "stock": 8
+  },
+  {
+    "nom": "Montre connectée",
+    "prix": 900,
+    "stock": 12
+  }
+]
